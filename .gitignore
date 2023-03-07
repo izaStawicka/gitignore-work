@@ -1,5 +1,5 @@
 # Ignore specific file
-another-file.txt
+new-file.txt
 
 # Ignore all files in folder
 bin/
